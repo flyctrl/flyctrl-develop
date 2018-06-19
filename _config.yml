@@ -112,7 +112,13 @@ neat_js:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#  type: git
+#  repository: git@101.132.126.230:/home/git/blog.git
+#  branch: master
+
 deploy:
   type: git
-  repository: git@101.132.126.230:/home/git/blog.git
-  branch: master
+  repo:
+      npm8: git@101.132.126.230:/home/git/blog.git,master
+      github: git@github.com:flyctrl/flyctrl.github.io.git,master
