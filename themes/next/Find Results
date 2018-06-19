@@ -1,0 +1,666 @@
+Searching 511 files for "demo.grycheng.com/case"
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/一组时尚的侧边栏菜单和下拉列表效果.md:
+  153  &emsp;&emsp;其它的操作都是在点击相应元素的时候使用toggleClass()来切换相应的class，以及显示和隐藏相应的元素。
+  154
+  155: [查看演示](http://demo.grycheng.com/case/leftBottomNav/)
+  156
+  157  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/leftBottomNav.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/为网站增加js网页雪花飘落效果jquery插件.md:
+   22  ```
+   23
+   24: [演示效果](http://demo.grycheng.com/case/snowing/snow.htm)
+   25
+   26  [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/snowing.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/仿云盘拖拽上传插件：dragupload.md:
+   39  &nbsp;
+   40
+   41: [Demo演示](http://demo.grycheng.com/case/dragupload/)
+   42
+   43  [点击下载](http://demo.webjyh.com/DragUpload/DragUpload.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/仿淘宝回顶部和建议代码jquery.md:
+   23  5.具体详细设置在css和js中都有注释
+   24
+   25: [Demo演示](http://demo.grycheng.com/case/taobaotop/)
+   26
+   27  [点此下载](http://pan.baidu.com/s/1c0fgMze)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/仿百度空间js鼠标悬停图片放大动画.md:
+   12  [![bb8](http://www.npm8.com/wp-content/uploads/2015/07/bb8.png)](http://www.npm8.com/wp-content/uploads/2015/07/bb8.png)
+   13
+   14: [查看演示](http://demo.grycheng.com/case/baidupic/)
+   15
+   16  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/baiduPic.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/使用meta实现页面的定时刷新或跳转.md:
+   31  所以，当我们下次遇到“登录成功，正在跳转到您之前访问页面……”的时候，可以使用`<meta>`的这个`refresh`刷新，跳转功能，可以说是成本最低的。
+   32
+   33: 您可以狠狠地点击这里：[meta与当前页面定时刷新Demo](http://demo.grycheng.com/case/meta-fresh-content.html)
+   34
+   35  [![1](http://www.npm8.com/wp-content/uploads/2015/07/112.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/112.jpg)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/兼容性较好的jquery抽奖大转盘特效.md:
+   13  [![1-1502111240462b](http://www.npm8.com/wp-content/uploads/2015/07/1-1502111240462b.png)](http://www.npm8.com/wp-content/uploads/2015/07/1-1502111240462b.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/awardRotate/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/awardRotate.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/功能强大的jquery滚动定位插件scrollfix.md:
+   28  可选，默认为"top"，表示触发固定的滚动方向，"top"表示从上向下滚动时触发，"bottom"表示从下向上滚动时触发
+   29
+   30: [查看演示](http://demo.grycheng.com/case/scrollFixDemo/)
+   31
+   32  [点击下载](http://www.npm8.com/wp-content/uploads/2016/11/scrollFix.js)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/原生js首页进度加载动画.md:
+  139  </html>
+  140  ```
+  141: [查看演示](http://demo.grycheng.com/case/lading.html)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/可拖拽和删除jquery网格布局插件jquery-gridly.md:
+   56  ```
+   57
+   58: [查看演示](http://demo.grycheng.com/case/move2/)
+   59
+   60  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/move2.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/右下角pop弹窗-完美兼容ie6789-ff-chrome，类似discuz右下角.md:
+   15  [![1](http://www.npm8.com/wp-content/uploads/2015/07/17.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/17.jpg)
+   16
+   17: [Demo演示](http://demo.grycheng.com/case/pop/pop.html)
+   18
+   19  [点此下载](http://pan.baidu.com/s/1nt9W4pb)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/响应式全屏无缝切换幻灯片divasslider.md:
+   62  [![divas-slider](http://www.npm8.com/wp-content/uploads/2015/08/divas-slider-650x303.jpg)](http://www.npm8.com/wp-content/uploads/2015/08/divas-slider.jpg)
+   63
+   64: [查看演示](http://demo.grycheng.com/case/divas_free/)
+   65
+   66  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/divas_free.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/图片滑动翻牌效果jquery.md:
+   22  4.将class为box的ul的内容复制到您的html文件
+   23
+   24: [Demo演示](http://demo.grycheng.com/case/picsilde/)
+   25
+   26  [点此下载](http://pan.baidu.com/s/1kTnFUTL)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/在移动端下模拟下拉列表.md:
+   62  ![selectdemo](http://www.npm8.com/wp-content/uploads/2015/08/2-1.png)
+   63
+   64: [查看演示](http://demo.grycheng.com/case/selectdemo/)
+   65
+   66  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/selectDemo.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/基于jquery右下角旋转环状菜单代码.md:
+   71  ```
+   72
+   73: [查看演示](http://demo.grycheng.com/case/css3ShareBtn/)
+   74
+   75  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/css3ShareBtn.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/基于jquery实现圆形图片横向轮播酷炫特效.md:
+   15  [![](http://www.npm8.com/wp-content/uploads/2016/01/5-660x361.png)](http://www.npm8.com/wp-content/uploads/2016/01/5.png)
+   16
+   17: [查看演示](http://demo.grycheng.com/case/arcle/)
+   18
+   19  [点击下载](http://www.npm8.com/wp-content/uploads/2016/01/arcle.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/基于jquery滑动杆实现购买日期选择.md:
+  311  });
+  312  ```
+  313: [查看演示](http://demo.grycheng.com/case/sidebarDateSelect/)
+  314
+  315  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/sidebarDateSelect.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/基于jquery-autocomplete文本框自动联想补全.md:
+   41  ```
+   42
+   43: [查看演示](http://demo.grycheng.com/case/searchtoken/)
+   44
+   45  [点击下载](http://www.npm8.com/wp-content/uploads/2015/12/searchToken.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/基于zeptocss3宝箱开启动画抽奖js特效.md:
+   13  [![1-15011Q21526415](http://www.npm8.com/wp-content/uploads/2015/07/1-15011Q21526415.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/1-15011Q21526415.jpg)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/awardMobile/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/awardMobile.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/多屏复杂动画css技巧三则.md:
+  299  [![12](http://www.npm8.com/wp-content/uploads/2015/07/121.png)](http://www.npm8.com/wp-content/uploads/2015/07/121.png)
+  300
+  301: [以上两屏示意demo戳这里](http://demo.grycheng.com/case/new-opp/)
+  302
+  303  ## 结语
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/如何创建一个自定义jquery插件.md:
+  254  [![2](http://www.npm8.com/wp-content/uploads/2015/07/27.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/27.jpg)
+  255
+  256: 演示地址：[http://demo.grycheng.com/case/custormJq/](http://demo.grycheng.com/case/custormJq/)
+  257
+  258  下载地址：[custormJq.zip](http://www.npm8.com/wp-content/uploads/2015/07/custormJq.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/实用jquery单页视差滚动插件jquery-localscroll.md:
+   14  [![1-150126195605Z7](http://www.npm8.com/wp-content/uploads/2015/07/1-150126195605Z7.png)](http://www.npm8.com/wp-content/uploads/2015/07/1-150126195605Z7.png)
+   15
+   16: [查看演示](http://demo.grycheng.com/case/localscroll/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/localscroll.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/带动画效果火箭图标js返回顶部.md:
+   14  [![hj](http://www.npm8.com/wp-content/uploads/2015/07/hj.png)](http://www.npm8.com/wp-content/uploads/2015/07/hj.png)
+   15
+   16: [查看演示](http://demo.grycheng.com/case/tophj/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/topHJ.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/带大图预览功能的js相册.md:
+   43  pop_up:true//大图是否有弹出框
+   44  ```
+   45: [查看演示](http://demo.grycheng.com/case/album/)
+   46
+   47  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/album.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/带css3动画响应式jquery垂直时间轴特效.md:
+   13  [![1-150119131R0212](http://www.npm8.com/wp-content/uploads/2015/07/1-150119131R0212.png)](http://www.npm8.com/wp-content/uploads/2015/07/1-150119131R0212.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/timeline/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/timeline.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/抽奖转盘插件-jqueryrotate-js使用实例及demo下载.md:
+  226  </html>
+  227  ```
+  228: [查看演示](http://demo.grycheng.com/case/lottery/)
+  229
+  230  [点击下载](http://www.npm8.com/wp-content/uploads/2015/10/lottery.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/文本框禁止复制粘贴操作.md:
+   58  ```
+   59
+   60:  [Demo演示](http://demo.grycheng.com/case/textcopy.html)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/无js中国地图变色版.md:
+   12
+   13
+   14: [查看演示](http://demo.grycheng.com/case/ditu/)
+   15
+   16  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/ditu.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/最新纯js移动端日期选择插件.md:
+   20  [![最新纯js移动端日期选择插件](http://www.npm8.com/wp-content/uploads/2016/01/c.png)](http://www.npm8.com/wp-content/uploads/2016/01/c.png)
+   21
+   22: [查看演示](http://demo.grycheng.com/case/lCalendar/lCalendar.html)
+   23
+   24  [点击下载](https://github.com/xfhxbb/LCalendar)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/根据开始时间服务器时间、客户端时间和结束时间.md:
+   97  });
+   98  ```
+   99: [查看演示](http://demo.grycheng.com/case/startAndendTime/)
+  100
+  101  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/startAndendTime.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/模块、图片、背景图片、视频等响应式（宽高等比.md:
+   14  &emsp;&emsp;网页布局里很多地方需要宽高等比缩放功能，例如手机网页的全屏轮播。轮播的宽度随着手机不同分辨率而变化，高度自适应，这样才不会让轮播里面的图片压缩变形，顶多就是放太大而变模糊。
+   15
+   16: &emsp;&emsp;之前同事的办法，是用一个透明的图片占位符，此图片的大小是需要的比例。例如2：1就把占位符做成2px*1px，例如5：3就把占位符做成5px*3px。然后放入img标签里，设置宽度100%，这样高度就自动撑开，进而撑开外层父div。img平级放个子div，相对父div绝对定位，宽高100%，这样子div的大小就和img一样大，实现等比缩放了。见→[DEMO1](http://demo.grycheng.com/case/imgscale/demo1.html)←方法1（建议缩小窗口查看效果）。
+   17
+   18  ![模块、图片、背景图片、视频等响应式（宽高等比缩放）布局](http://www.npm8.com/wp-content/uploads/2015/10/6c8ff42cgw1eisvr1qhwhg20bo08g15j.gif)
+   ..
+   20  &emsp;&emsp;但这个方法有个最大弊端，img标签的大小，得里面的图片占位符解析出来，才可以撑开父div。这就导致网页一打开时，父div高度为0，等到图片占位符解析完毕后，父div才得以撑开，所以网页会闪动，体验不好，也会影响js的计算模块高度等问题。
+   21
+   22: &emsp;&emsp;下面是群友提供的另外一种办法，利用padding取值百分比来做：垂直方向的padding取值使用百分比时，其值是相对于本模块的宽度（怪异模式盒子模型），而W3C的解释是：基于父对象总高度或宽度的百分比。大家看哪种好理解就理解哪个吧。提供一个→[DEMO2](http://demo.grycheng.com/case/imgscale/demo2.html)←大家看看这个有趣的现象（建议缩小窗口查看效果）。
+   23
+   24: &emsp;&emsp;根据padding的这个有趣现象，可以用伪类来撑开外层容器，轻松实现等比缩放模块、图片、背景图片、视频等，见→[DEMO3](http://demo.grycheng.com/case/imgscale/demo3.html)←方法2（建议缩小窗口查看效果）。
+   25
+   26  参考资料：
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/漂亮体验非常好带动画效果的js拖拽排序.md:
+   12  [![tz](http://www.npm8.com/wp-content/uploads/2015/07/tz.png)](http://www.npm8.com/wp-content/uploads/2015/07/tz.png)
+   13
+   14: [查看演示](http://demo.grycheng.com/case/modmove/)
+   15
+   16  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/modMove.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/用jquery自制弹出层效果，自适应浏览器.md:
+   15  &nbsp;
+   16
+   17: [Demo演示](http://demo.grycheng.com/case/maskout/PopupLayer.html) [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/maskout.zip)
+   18
+   19  &nbsp;
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/禁用微信-webview-调整字体大小.md:
+   63  ## 测试用例
+   64
+   65: [http://demo.grycheng.com/case/resize_font.html](http://lukesign.com/demo/resize_font.html)
+   66
+   67  ## 总结
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/移动端下拉刷新、加载更多插件dropload-js基于jqueryzepto.md:
+   15  ![](http://www.npm8.com/wp-content/uploads/2015/10/demo1.png)
+   16
+   17: [DEMO1，加载底部](http://demo.grycheng.com/case/dropload/examples/load-bottom.html)
+   18
+   19  &nbsp;
+   ..
+   21  ![](http://www.npm8.com/wp-content/uploads/2015/10/demo2.png)
+   22
+   23: [DEMO2，加载顶部、底部](http://demo.grycheng.com/case/dropload/examples/load-top-bottom.html)
+   24
+   25  &nbsp;
+   ..
+   27  ![](http://www.npm8.com/wp-content/uploads/2015/10/demo3.png)
+   28
+   29: [DEMO3，固定布局，加载顶部、底部](http://demo.grycheng.com/case/dropload/examples/product-list.html)
+   30
+   31  &nbsp;
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/移动web页面支持弹性滚动解决方案.md:
+   86  flex体验demo：
+   87
+   88: [http://demo.grycheng.com/case/csshuadong.html](http://demo.grycheng.com/case/csshuadong.html)
+   89
+   90  [![](http://www.npm8.com/wp-content/uploads/2016/03/2.png)](http://www.npm8.com/wp-content/uploads/2016/03/2.png)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/纯css3鼠标悬浮图片动画效果-animatia.md:
+   16  Animatia包含不同类型的设计像按钮样式,覆盖效果,图像效果,说明文字。
+   17
+   18: [Demo演示](http://demo.grycheng.com/case/animateCss3/)
+   19
+   20  [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/animateCss3.rar)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/网页产品元素快速查看特效.md:
+   14  &nbsp;
+   15
+   16: [查看演示](http://demo.grycheng.com/case/product-quick-view/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/product-quick-view.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/自定义select插件.md:
+   13  [![](http://www.npm8.com/wp-content/uploads/2015/07/1111.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/1111.jpg)
+   14
+   15: [Demo演示](http://demo.grycheng.com/case/select/)
+   16
+   17  [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/select.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/表单密码强度监测判断js代码特效.md:
+   13  [![password](http://www.npm8.com/wp-content/uploads/2015/07/password.png)](http://www.npm8.com/wp-content/uploads/2015/07/password.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/checkpassword)[点击下载](http://www.npm8.com/wp-content/uploads/2015/07/checkPassword.zip)
+   16  &nbsp;
+   17  &nbsp;
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/让文本框或div具备插入表情功能-jqueryemoji表情插件.md:
+   21  ![jQuery-emoji](http://www.npm8.com/wp-content/uploads/2016/04/4-1.jpg)
+   22
+   23: [查看演示](http://demo.grycheng.com/case/jQuery-emoji-master/)
+   24
+   25  [点击下载](http://www.npm8.com/wp-content/uploads/2016/04/jQuery-emoji-master.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/设备像素比devicepixelratio简单介绍.md:
+   51
+   52  **实际测试**
+   53: 您可以狠狠地点击这里：[window.devicePixelRatio值支持与否测试demo](http://demo.grycheng.com/case/devicePixelRatio.html)
+   54
+   55  例如，我现在的FireFox桌面版(14.0.1)弹出的就是`undefined`, 如下图：
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/详解强大的jquery评分插件jquery-raty.md:
+  121  ```
+  122
+  123: [Demo演示](http://demo.grycheng.com/case/jquery.raty/demo.html)
+  124
+  125  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/jquery.raty_.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/酷炫门户网站相册效果特效js.md:
+   13  [![1-150419205009463](http://www.npm8.com/wp-content/uploads/2015/07/1-150419205009463.png)](http://www.npm8.com/wp-content/uploads/2015/07/1-150419205009463.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/photos/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/photos.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/非常逼真全屏雨滴动画js代码特效.md:
+   13  [![water](http://www.npm8.com/wp-content/uploads/2015/07/water.png)](http://www.npm8.com/wp-content/uploads/2015/07/water.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/waterjs/index.html)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/waterJs.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/页面滚动元素进入视口发生动画特效插件.md:
+   77  注意：任何在页面加载时就处于视口当中的元素会立刻被触发动画序列。
+   78
+   79: [查看演示](http://demo.grycheng.com/case/jQuery-plugin-with-animate.css/)
+   80
+   81  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/jQuery-plugin-with-animate.css.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/鼠标经过方向感知特效.md:
+   14  [![directionalslide](http://www.npm8.com/wp-content/uploads/2015/08/directionalslide-650x308.jpg)](http://www.npm8.com/wp-content/uploads/2015/08/directionalslide.jpg)
+   15
+   16: [查看演示](http://demo.grycheng.com/case/jquery-directionalslide-master/demo/index.html)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/jquery-directionalslide-master.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/鼠标banner图上移动图片跟随动态移动.md:
+   39  ```
+   40
+   41: [Demo演示](http://demo.grycheng.com/case/scrollImg/)
+   42
+   43  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/scrollImg.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/30种奇妙的鼠标悬停效果【附源码下载】.md:
+   16  ![301219139497430](http://www.npm8.com/wp-content/uploads/2015/09/301219139497430.jpg)
+   17
+   18: [查看演示](http://demo.grycheng.com/case/HoverEffectIdeas/index.html)
+   19
+   20  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/HoverEffectIdeas.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/ajax分页插件.md:
+   65  重新渲染,ops:{count:int,pagesize:int,current:int,pagecount:int}
+   66
+   67: [查看演示](http://demo.grycheng.com/case/paging-master/example/index-requirejs.html)
+   68
+   69  [点击下载](http://www.npm8.com/wp-content/uploads/2015/12/paging-master.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/border-radius-移动之伤.md:
+   31  当 img 元素有border 时设置border-radius 会导致圆角变形，需要在img 外面嵌套一个元素并设置border 和border-radius。
+   32
+   33: [查看演示](http://demo.grycheng.com/case/wp-border-radius.html)
+   34
+   35  [![a](http://www.npm8.com/wp-content/uploads/2015/09/a1-650x488.jpg)](http://www.npm8.com/wp-content/uploads/2015/09/a1.jpg)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css伪元素before、after妙用：制作时尚焦点图相框.md:
+   68  &emsp;&emsp;通过这个例子是不是很方便的把这个效果做出来了呢？而且看看我们的代码，是不是很简洁呢！哈哈……或许还有更好的方法来实现，我们可以一起探讨。我个人感觉其实`div+css`是很好的一门很容易手上但是功能性很强的技术，而且他很好玩很有趣。利用你的奇思妙想， 你可以做出各种意想不到的效果。期待你的作品哦。
+   69
+   70: [DEMO演示](http://demo.grycheng.com/case/css-before-after/)
+   71
+   72  [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/CSS-before-after.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3产品展示幻灯片.md:
+   14  &nbsp;
+   15
+   16: [查看演示](http://demo.grycheng.com/case/css3-product-showcase/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/css3-product-showcase.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3动画条纹边框.md:
+   11  [![css3-animation-stripes](http://www.npm8.com/wp-content/uploads/2015/07/css3-animation-stripes.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/css3-animation-stripes.jpg)
+   12
+   13: [DEMO演示](http://demo.grycheng.com/case/css3-border/)
+   14
+   15  [点此下载](http://www.npm8.com/wp-content/uploads/2015/07/css3-border.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3动画简介以及动画库animate-css的使用.md:
+  118  下面展示了animate.css里面提供的所有动画，动画名就是类名，你想使用哪个动画，加上这个类名就行了。
+  119
+  120: <iframe style="border: none; outline: none; background: none;overflow:hidden;" src="http://demo.grycheng.com/case/animate/" width="650" height="600"></iframe>
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3技术雪碧图自适应缩放.md:
+   78  &nbsp;
+   79
+   80: [查看演示](http://demo.grycheng.com/case/adaptive-sprite)
+   81
+   82  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/adaptive-sprite.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3按钮多种移入动画按钮悬停特效.md:
+   15  ![CSS3按钮多种移入动画](http://www.npm8.com/wp-content/uploads/2016/04/5-660x347.jpg)
+   16
+   17: [查看演示](http://demo.grycheng.com/case/css-hover/)
+   18
+   19  [点击下载](http://www.npm8.com/wp-content/uploads/2016/04/css-hover.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3移入图片放大效果.md:
+   95  **Ps :** demo 以 Webkit 为例，其它浏览器内核请自行加上如 -moz- 等前缀。
+   96
+   97: [查看演示](http://demo.grycheng.com/case/css3bigpic/)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/css3自定义滚动条样式-webkit-scrollbar.md:
+   17  ## 演示
+   18
+   19: 来看看这2个滚动条demo：[ demo1（图片版）](http://demo.grycheng.com/case/scroll/index.html)、[demo2（纯CSS3版）](http://demo.grycheng.com/case/scroll/css3-scroll.html)
+   20
+   21  ## 滚动条组成
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/design-samsung瀑布流，页面滚动内容加载效果.md:
+   15  **注意：这些效果在现代浏览器中有效。**
+   16
+   17: [查看演示](http://demo.grycheng.com/case/Samsung/)
+   18
+   19  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/Samsung.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/dialog对话框弹层插件.md:
+  123  ```$('.ui-dialog').trigger('hide');```触发弹窗的隐藏事件.
+  124
+  125: [查看演示](http://demo.grycheng.com/case/dialogalert/example/)
+  126
+  127  [点击下载](http://www.npm8.com/wp-content/uploads/2015/12/dialog-master.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/html5仿手机微信摇一摇.md:
+   19  [![摇一摇](http://www.npm8.com/wp-content/uploads/2016/01/11.jpg)](http://www.npm8.com/wp-content/uploads/2016/01/11.jpg)
+   20
+   21: [查看演示](http://demo.grycheng.com/case/shake/)
+   22
+   23  [点击下载](http://www.npm8.com/wp-content/uploads/2016/01/shake.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/html5全屏背景切换点击按钮svg背景滑动切换特效.md:
+   14  html5 svg背景切换，点击按钮滑动切换，全屏切换，适用浏览器：360、FireFox、Chrome、Safari、Opera、傲游、搜狗、世界之窗. 不支持IE8及以下浏览器。
+   15
+   16: [查看演示](http://demo.grycheng.com/case/tabbgsvg/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/tabbgSvg.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/html5js实现刮刮乐刮刮卡抽奖.md:
+   14
+   15
+   16: [查看演示](http://demo.grycheng.com/case/awardGg/)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/awardGg.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/ie6-png透明终极解决方案.md:
+   78  3、当没有平铺需求时候可考虑
+   79
+   80: **[滤镜解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/filter/)**
+   81
+   82  * * *
+   ..
+  142  3、PNG图片比较频繁修改时可考虑；
+  143
+  144: **[htc解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/htc/)**
+  145
+  146  * * *
+  ...
+  189  2、如果有背景图的可以参考上面所说的支持背景图的两种方式；
+  190
+  191: **[纯css解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/css/)**
+  192
+  193  * * *
+  ...
+  231  2、如果有背景图的可以参考上面所说的支持背景图的两种方式；
+  232
+  233: **[原生JavaScript解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/javascript/)**
+  234
+  235  * * *
+  ...
+  283
+  284
+  285: **[jQuery解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/jQuery/)**
+  286
+  287
+  ...
+  392  2、当png图片过多的时候可考虑，因为png图片太多，使用前面的几个方法，有的会导致CSS代码冗余过多，还不如引入此文件划算；
+  393
+  394: **[DD_belatedPNG解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/DD_belatedPNG/)**
+  395
+  396  * * *
+  ...
+  445  2、当DD_belatedPNG效果不理想的时候可以考虑；
+  446
+  447: **[EvPng解决方案 - DEMO入口](http://demo.grycheng.com/case/ie6_png/EvPng/)**
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/iscroll5用法详解中文api整理.md:
+   16  iscroll官网：[http://iscrolljs.com/](http://iscrolljs.com/)
+   17
+   18: iscroll中文API：[http://demo.grycheng.com/case/iscrollapi.html](http://demo.grycheng.com/case/iscrollapi.html)
+   19
+   20  ## 版本
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/javascript拖拽翻页throwpage.md:
+   10  ---
+   11
+   12: [查看演示](http://demo.grycheng.com/case/draglist.html)
+   13
+   14  **结构层**
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/javascript-css3写了一个前端验证码插件.md:
+  252  ```
+  253  &nbsp;
+  254: [查看演示](http://demo.grycheng.com/case/jsvcode/index.html)
+  255
+  256  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/jsvcode.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jq使用css3实现动感十足的文字动画效果插件textillate-js.md:
+   40  $element.textillate('out') – 当前文字动画退出时触发
+   41
+   42: [查看演示](http://demo.grycheng.com/case/textillate/)
+   43
+   44  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/textillate.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jq在线选座位seat-charts插件.md:
+   13  [![cc](http://www.npm8.com/wp-content/uploads/2015/07/cc.png)](http://www.npm8.com/wp-content/uploads/2015/07/cc.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/seat-charts/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/seat-charts.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery全屏手风琴效果.md:
+   54  </script>
+   55  ```
+   56: [查看演示](http://demo.grycheng.com/case/FullAccordion/)
+   57
+   58  [点击下载](http://www.npm8.com/wp-content/uploads/2015/10/FullAccordion.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery全屏滚动插件fullpage-js.md:
+  109  | onSlideLeave | 某一水平滑块滚动前的回调函数，与 onLeave 类似，接收 anchorLink、index、slideIndex、direction 4个参数 |
+  110
+  111: [Demo演示](http://demo.grycheng.com/case/fullpage/)
+  112
+  113  [点此下载](https://github.com/alvarotrigo/fullPage.js)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery公司发展时间插件.md:
+   11  [![dd](http://www.npm8.com/wp-content/uploads/2015/07/dd3-650x434.jpg)](http://www.npm8.com/wp-content/uploads/2015/07/dd3.jpg)
+   12
+   13: [查看演示](http://demo.grycheng.com/case/companyTime/)
+   14
+   15  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/companyTime.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery分页插件带总数分页代码.md:
+   16  &nbsp;
+   17
+   18: [查看演示](http://demo.grycheng.com/case/page/)
+   19
+   20  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/page.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery图片层叠3d旋转切换效果.md:
+   13  [![3d](http://www.npm8.com/wp-content/uploads/2015/07/3d.png)](http://www.npm8.com/wp-content/uploads/2015/07/3d.png)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/3dpictab/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/3dpictab.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery图片预加载插件-neatshowjs.md:
+   34  [neatShow.js官方地址](http://stevepapa.com/neatshowjs/)
+   35
+   36: [查看演示](http://demo.grycheng.com/case/neatshowjs/examples/default.html)[点击下载](http://www.npm8.com/wp-content/uploads/2015/08/neatshowjs.zip)
+   37  &nbsp;
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery多步骤进度条、网页步骤流程进度条插件.md:
+   14  [![f583ebb00abcff1e2c05bdb7a60854e6_big](http://www.npm8.com/wp-content/uploads/2015/09/f583ebb00abcff1e2c05bdb7a60854e6_big-660x352.png)](http://www.npm8.com/wp-content/uploads/2015/09/f583ebb00abcff1e2c05bdb7a60854e6_big.png)
+   15
+   16: [查看演示1](http://demo.grycheng.com/case/stepJquery/demo.html)
+   17
+   18: [查看演示2](http://demo.grycheng.com/case/stepJquery/demo2.html)
+   19
+   20  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/stepJquery.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery手机移动端触屏日历日期选择.md:
+   36  &nbsp;
+   37
+   38: [Demo演示](http://demo.grycheng.com/case/mobileTime/)
+   39
+   40  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/mobileTime.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery新手指引流程引导插件intro-js.md:
+   72  [![newuser](http://www.npm8.com/wp-content/uploads/2015/07/newuser.png)](http://www.npm8.com/wp-content/uploads/2015/07/newuser.png)
+   73
+   74: [查看演示](http://demo.grycheng.com/case/Introjs/)
+   75
+   76  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/IntroJs.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery滑动解锁插件slideunlock.md:
+   95  &nbsp;
+   96
+   97: [查看演示](http://demo.grycheng.com/case/jQuery-slide-unlock/)
+   98
+   99  [点击下载](http://www.npm8.com/wp-content/uploads/2016/04/jQuery-slide-unlock.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery网页浮动导航锚点链接屏幕上下滚动效果锚点滚.md:
+   13  jquery网页浮动导航锚点链接屏幕上下滚动效果,锚点滚屏跟随
+   14
+   15: [查看演示](http://demo.grycheng.com/case/jqueryanchor/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/jqueryAnchor.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery获取鼠标移动方向特效.md:
+   13  ![4](http://www.npm8.com/wp-content/uploads/2016/04/4-660x276.jpg)
+   14
+   15: [查看演示](http://demo.grycheng.com/case/jquery-mouse/)
+   16
+   17  [点击下载](http://www.npm8.com/wp-content/uploads/2016/04/jquery-mouse.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery颜色选择器拾色器插件icolor.md:
+   49  </script>
+   50  ```
+   51: [查看演示](http://demo.grycheng.com/case/icolor/)
+   52
+   53  [点击下载](http://www.npm8.com/wp-content/uploads/2015/10/icolor.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery-barcode-js绘制条码生成打印插件.md:
+   90  &nbsp;
+   91
+   92: [DEMO演示](http://demo.grycheng.com/case/jquery-barcode/jquery-barcode.html)
+   93  &nbsp;
+   94
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquery3d幻灯片插件图片层叠加按钮控制图片大小缩放切.md:
+   16  &nbsp;
+   17
+   18: [查看演示](http://demo.grycheng.com/case/jquery3dhdp/)
+   19
+   20  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/jQuery3dhdp.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/jquerycss3实现点击动画弹出表单代码.md:
+   64  });
+   65  ```
+   66: [查看演示](http://demo.grycheng.com/case/jqCss3Animate/)
+   67
+   68  [点击下载](http://www.npm8.com/wp-content/uploads/2015/08/jqCss3Animate.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/js实现点击按钮倒计时30秒发送手机验证码.md:
+   66  ```
+   67
+   68: [查看演示](http://demo.grycheng.com/case/timecheck.html)
+   69
+   70  [点击下载](http://www.npm8.com/wp-content/uploads/2015/09/timecheck.zip)
+
+/Users/admin/Github/flyctrl.github.io-develop/source/_posts/win8风格metro界面平板响应式导航特效代码.md:
+   14  [![1-15042H15453J0](http://www.npm8.com/wp-content/uploads/2015/07/1-15042H15453J0.png)](http://www.npm8.com/wp-content/uploads/2015/07/1-15042H15453J0.png)
+   15
+   16: [查看演示](http://demo.grycheng.com/case/window8Metro)
+   17
+   18  [点击下载](http://www.npm8.com/wp-content/uploads/2015/07/window8Metro.zip)
+
+103 matches across 88 files
